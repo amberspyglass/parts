@@ -22,6 +22,6 @@ MakerSlide.  Thank you, Bart!
 Other File Formats
 ------
 
-If DWG isn't your preferred file format, you can get other formats here:
-[a link](http://amberspyglass.co.uk/resources/parts/) (currently only DXF;
-what other format would you like to see?)
+If DWG isn't your preferred file format, you can
+[get other formats here](http://amberspyglass.co.uk/resources/parts/)
+(currently only DXF; what other format would you like to see?).
