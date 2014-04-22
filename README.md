@@ -18,3 +18,10 @@ Thank you, Edward!
 
 Both Shapeoko and eShapeoko rely on Bart Dring's open-source linear motion system,
 MakerSlide.  Thank you, Bart!
+
+Other File Formats
+------
+
+If DWG isn't your preferred file format, you can get other formats here:
+[a link](http://amberspyglass.co.uk/resources/parts/) (currently only DXF;
+what other format would you like to see?)
