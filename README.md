@@ -24,4 +24,4 @@ Other File Formats
 
 If DWG isn't your preferred file format, you can
 [get other formats here](http://amberspyglass.co.uk/resources/parts/)
-(currently only DXF; what other format would you like to see?).
+(currently DXF and PDF; what other format would you like to see?).
