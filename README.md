@@ -7,6 +7,8 @@ and for various other projects based on MakerSlide (for example, the camera slid
 Most of them are generally useful MakerSlide accessories, but some parts are designed
 specifically for the eShapeoko.
 
+For now, MegaRail 80 and MegaRail Z also live here.
+
 License and Attribution
 ------
 
