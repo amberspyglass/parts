@@ -9,6 +9,10 @@ specifically for the eShapeoko.
 
 For now, MegaRail 80 and MegaRail Z also live here.
 
+Part Numbers
+------
+See [PART-LIST.md](PARTS-LIST.md) for a short description of each part.
+
 License and Attribution
 ------
 
@@ -19,7 +23,7 @@ The eShapeoko is based on Edward Ford's open-source CNC milling machine, the Sha
 Thank you, Edward!
 
 Both Shapeoko and eShapeoko rely on Bart Dring's open-source linear motion system,
-MakerSlide.  Thank you, Bart!
+MakerSlide. Thank you, Bart!
 
 Other File Formats
 ------
