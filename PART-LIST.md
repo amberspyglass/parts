@@ -8,7 +8,7 @@ LEP       | 3 mm st/st | obsolete | Classic one-piece end plate for 375 mm X axi
 LXP rev 2 | 4 mm st/st | obsolete | Open end plate for use with belt clamps
 LXP rev 3 | 4 mm st/st | current  | Open end plate with integrated belt anchor points
 LYS       | 4 mm st/st | obsolete | Mid-span support for Y axis rails
-LMP rev 4 | 2 mm st/st | obsolete | Motor plate (X and Y carriages); up to eShapeoko 1.4.0
+LMP rev 4 | 2 mm st/st | obsolete* | Motor plate (X and Y carriages); up to eShapeoko 1.4.0
 LMP rev 5 | 4 mm alu   | current  | Motor plate (X and Y carriages); from eShapeko 1.4.1
 LMP1      | 2 mm st/st | obsolete | Experimental motor plate for "Hydra" three-headed machine
 LZP       | 2 mm st/st | obsolete | Z axis motor plate for NEMA 17 motor; used in pairs with flanged bearing
@@ -40,3 +40,5 @@ LIB  | 2 mm st/st | obsolete | Idler bracket for closed-loop belt
 **E.** | - | - | **Rail**
 MegaRail-80 | 6005A alu | current | MegaRail 80
 MegaRail-Z  | 6005A alu | current | MegaRail Z
+
+Note: LMP rev 4 is still available in the shop, but no longer supplied with the eShapeoko kit.
