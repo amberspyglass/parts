@@ -3,7 +3,7 @@ Part Numbers
 
 Part Number | Material | Description
 -------- | --- | ---
-- | - | **eShapeoko Parts** -- current parts in bold
+I | - | **eShapeoko Parts** -- current parts in bold
 LEP  | 3 mm st/st | Classic one-piece end plate for 375 mm X axis machine
 LXP rev 2     | 4 mm st/st | Open end plate for use with belt clamps
 **LXP rev 3** | 4 mm st/st | Open end plate with integrated belt anchor points
@@ -26,17 +26,17 @@ LBC      | 1 mm st/st | Belt clamp for 6 mm belt (not needed with LBA2, LBA3, LB
 **LTS**  | 1.5 mm st/st | Tool (spindle) strap; for use with spindle mount LTM
 **LLH**  | 1 mm st/st | Z axis limit switch bracket; holds two switches
 **LLT**  | 1 mm st/st | Z axis limit switch tab; one per switch
-- | - | **Camera Slider Parts**
+II | - | **Camera Slider Parts**
 LBB  | 2 mm st/st | Buckle-type belt anchor for 6 mm belt; used for camera slider
 LMB  | 4 mm alu   | Motor bracket for NEMA 17 motor; used for camera slider
 LCP  | 4 mm alu   | MakerSlide carriage plate, standard; used for camera slider
-- | - | **Other Parts**
+III | - | **Other Parts**
 LCM  | 4 mm alu   | MakerSlide carriage plate, small
 LCP1 | 4 mm alu   | MakerSlide carriage plate for steel V-wheels (RM1 size)
 MW3  | acetal     | Smooth idler wheel for 9 mm belt
-- | - | **Prototype Parts**
+IV | - | **Prototype Parts**
 LBR  | 2 mm st/st | Belt bracket for closed-loop 6 mm belt
 LIB  | 2 mm st/st | Idler bracket for closed-loop belt
-- | - | **Rail**
+V | - | **Rail**
 MegaRail-80 | 6005A alu | MegaRail 80
 MegaRail-Z  | 6005A alu | MegaRail Z
