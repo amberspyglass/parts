@@ -11,7 +11,7 @@ For now, MegaRail 80 and MegaRail Z also live here.
 
 Part Numbers
 ------
-See [PART-LIST.md](PARTS-LIST.md) for a short description of each part.
+See [PART-LIST.md](PART-LIST.md) for a short description of each part.
 
 License and Attribution
 ------
