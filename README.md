@@ -33,5 +33,5 @@ If DWG isn't your preferred file format, you can
 (currently DXF and PDF; what other format would you like to see?).
 
 If you need a different (earlier) version of DWG or DXF for your application,
-[Teigha File Converter by the Open Design Alliance](https://www.opendesign.com/guestfiles/teigha_file_converter)
+[Open Design Alliance File Converter](https://www.opendesign.com/guestfiles/oda_file_converter)
 can convert the DWGs to the required vintage.
